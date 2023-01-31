@@ -8,7 +8,7 @@ comments: true
 category: blog
 ---
 
-First trial 12345688
+>First trial 12345688
 
 ## What is a static website generator?
 A static website generator is a program that allows for a website to be created using alternatives to HTML. In this case we are using a simple text markup language called Markdown to create and format the content on the pages. Jekyll can interpret this and convert it to html that can be rendered in any browser.
