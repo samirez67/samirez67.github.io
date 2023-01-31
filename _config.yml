@@ -1,15 +1,15 @@
 # Site wide configuration
 
-title: Site Title
+title: Sami's noob website
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Arz
+  name: Mr. Duck
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "Under construction 🦆."
+  email: sami.areez@nyu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
@@ -22,7 +22,7 @@ owner:
     analytics:
     verify:
     scholar: #id
-  facebook: #username
+  facebook: facebook.com/babui67
   instagram: #username
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
