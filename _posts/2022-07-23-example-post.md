@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What is This?
-excerpt: "Hello, sup?"
+title: Assignment 0
+excerpt: "Baby steps"
 modified: 2/29/2022, 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true

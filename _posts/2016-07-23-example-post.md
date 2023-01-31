@@ -1,7 +1,7 @@
----
+--
 layout: post
-title: What is This?
-excerpt: "Hello, sup?"
+title: Dummy post
+excerpt: "Random scribbles"
 modified: 2/29/2016, 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
