@@ -1,5 +1,5 @@
 ---
-title: "Digital Literacy Narrative Assignment"
+title: "Digital Literacy Narrative"
 layout: textlay
 excerpt: "Digital Literacy Narrative Assignment"
 sitemap: false
