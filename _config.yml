@@ -14,7 +14,7 @@ owner:
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
-  github: https://github.com/samirez67/samirez67.github.io
+  github: samirez67/samirez67.github.io
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -24,7 +24,7 @@ owner:
     verify:
     scholar: #id
   facebook: facebook.com/babui67
-  instagram: https://www.instagram.com/samisaduck
+  instagram: samisaduck
   bing-verify:
   stackoverflow: #123456/username from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
@@ -34,7 +34,7 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: https://youtu.be/dQw4w9WgXcQ
+  youtube: dQw4w9WgXcQ
   soundcloud: #username
   weibo: #username
   flickr: #username
