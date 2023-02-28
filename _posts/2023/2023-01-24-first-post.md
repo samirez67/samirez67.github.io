@@ -15,7 +15,7 @@ category: blog
 Get straight to the point, talk about your expertise, experiences, and expectations, and keep the wordcount to 500-550.
 
 
-- **The result:**
+- **Primary result:**
 
 As a 21-year-old university student, I am excited to be taking an introductory course in Digital Humanities. I am constantly engaging with technology in all aspects of my daily and academic life, using various platforms and software for content creation, social interaction, research data management, and data analysis.
 
@@ -31,7 +31,19 @@ Moving forward, I am excited to continue exploring these topics and to develop t
 
 
 ## *Edited Result:*
-;fkefjsdejsdjv
+
+As a 21-year-old university student, I believe I have ample knowledge about the existence and the utilities of the current technologies we have at our disposal as I mysself use a lot of them, to various degrees, throughout my academic and daily life in general. However, I realize that my understanding of their utilities and their impacts on a greater scale limited and far from the overall picture they paint.
+
+These are one of the various reasons I'm excited to take this introductory course in Digital Humanities. I want to learn the true extent and capabilities of these platforms, all while gaining a deeper understanding of how they shape our understanding of our society and culture as we know it.
+
+As an avid content creator, I use platforms like Canva, Adobe Creative Suite, and Microsoft Office to design and edit graphics, videos, and documents. Social media platforms like Instagram, Twitter, and Facebook are integral to my social life, and I use them to connect with friends and family, share my work, and engage with communities of interest.
+
+For academic research, I rely on software like Zotero, NVivo, and Excel to manage and analyze data. While I am proficient in using these tools, I want to learn more about their capabilities and limitations, and how they fit into the broader context of digital technologies.
+
+In this course, I am discovering the ways in which digital technologies shape our understanding of the world and how they impact our personal and professional lives. I am learning about the history of computing, the principles of human-centered design, and the ethical considerations that come with digital technology.
+
+Moving forward, I am excited to continue exploring these topics and to develop the critical thinking skills necessary to assess the impact of technology on society and culture. I hope to gain a deeper understanding of how technology can be used to create positive change in the world, and to develop the skills necessary to navigate the complex and rapidly changing digital landscape.
+
 
 
 ## Why should I use a static website?
