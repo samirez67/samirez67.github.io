@@ -10,7 +10,8 @@ category: blog
 
 # **A Digital Literary Narrative penned by ChatGPT**
 
-## *The input:*
+- **The input:**
+
 > You are a 21 year old university student who is taking an introductory course in Digital Humanities. Being a student who. Write an opinionated digital literacy narrative on why you want to take the aforementioned course; provide a critical reflection on your current abilities and understanding of the utilities of the platforms, and what you are discovering in the course as well as what more are you looking forward to learn. Also include how you employ the technologies on a very frequent basis in all aspects of daily and academic lives such as for content creation, social interaction, as well as any platforms or software they use for research data management as well as data manipulation and analysis; think about all the strategies and ways you employ these platforms and technologies.
 Get straight to the point, talk about your expertise, experiences, and expectations, and keep the wordcount to 500-550.
 
@@ -30,7 +31,7 @@ In this course, I am discovering the ways in which digital technologies shape ou
 Moving forward, I am excited to continue exploring these topics and to develop the critical thinking skills necessary to assess the impact of technology on society and culture. I hope to gain a deeper understanding of how technology can be used to create positive change in the world, and to develop the skills necessary to navigate the complex and rapidly changing digital landscape.
 
 
-## *Edited Result:*
+- **Edited Result:**
 
 As a 21-year-old university student, I believe I have ample knowledge about the existence and the utilities of the current technologies we have at our disposal as I mysself use a lot of them, to various degrees, throughout my academic and daily life in general. However, I realize that my understanding of their utilities and their impacts on a greater scale limited and far from the overall picture they paint.
 
