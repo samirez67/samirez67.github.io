@@ -44,11 +44,3 @@ For academic research, I rely on software like Zotero, NVivo, and Excel to manag
 In this course, I am discovering the ways in which digital technologies shape our understanding of the world and how they impact our personal and professional lives. I am learning about the history of computing, the principles of human-centered design, and the ethical considerations that come with digital technology.
 
 Moving forward, I am excited to continue exploring these topics and to develop the critical thinking skills necessary to assess the impact of technology on society and culture. I hope to gain a deeper understanding of how technology can be used to create positive change in the world, and to develop the skills necessary to navigate the complex and rapidly changing digital landscape.
-
-
-
-## Why should I use a static website?
-A static website, simply put, is easier to manage than just about any other option out there for a simple website. Since it does not rely on any additional web application, it can be hosted on any webhosting server. It does not require regular updates like many dynamic websites such as WordPress or Drupal require. Everything that the website needs to work is contained within one directory, making it incredibly easy to move.
-
-## How is this template different?
-This template has been optimized for ease of use. In the next set of instructions you will see that there are less than five files that you need to edit in order to customize the look of the website.
