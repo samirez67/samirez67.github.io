@@ -15,7 +15,7 @@ category: blog
 Get straight to the point, talk about your expertise, experiences, and expectations, and keep the wordcount to 500-550.
 
 
-## *The result:*
+- *The result:*
 As a 21-year-old university student, I am excited to be taking an introductory course in Digital Humanities. I am constantly engaging with technology in all aspects of my daily and academic life, using various platforms and software for content creation, social interaction, research data management, and data analysis.
 
 While I consider myself proficient in using these technologies, I realize that my understanding of their utilities is limited. I want to take this course to gain a deeper understanding of the role that technology plays in shaping our society and culture.
