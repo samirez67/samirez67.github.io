@@ -37,7 +37,7 @@ As a 21-year-old university student, I believe I have ample knowledge about the 
 
 These are one of the various reasons I'm excited to take this introductory course in Digital Humanities. I want to learn the true extent and capabilities of these platforms, all while gaining a deeper understanding of how they shape our understanding of our society and culture as we know it.
 
-As an avid content creator, I use platforms like Canva, Adobe Creative Suite, and Microsoft Office to design and edit graphics, videos, and documents. Social media platforms like Instagram, Twitter, and Facebook are integral to my social life, and I use them to connect with friends and family, share my work, and engage with communities of interest.
+As part of my both personal and academic purposrs, I use platforms like Canva, Adobe Creative Suite, and Microsoft Office to design and edit graphics, videos, and documents. Social media platforms like Instagram, Twitter, and Facebook are integral to my social life, and I use them to connect with friends and family, share my work, and engage with communities of interest.
 
 For academic research, I rely on software like Zotero, NVivo, and Excel to manage and analyze data. While I am proficient in using these tools, I want to learn more about their capabilities and limitations, and how they fit into the broader context of digital technologies.
 
