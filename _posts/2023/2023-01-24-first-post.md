@@ -3,7 +3,7 @@ layout: post
 title: Assignment 0
 excerpt: "Digital Literacy Narrative"
 modified: 2/29/2023, 9:00:24
-tags: [intro, beginner, jekyll, tutorial]
+tags: [intro, beginner, DLN, tutorial]
 comments: true
 category: blog
 ---
