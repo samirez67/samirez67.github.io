@@ -1,77 +1,23 @@
 ---
-title: "DLME Metadata Assignment"
-layout: page
-excerpt: "DLME Metadata Assignment"
-sitemap: false
-permalink: /dlme-assignment/
+layout: post
+title: Assignment 1
+excerpt: "DLME Analysis"
+modified: 2/29/2023, 9:00:24
+tags: [intro, beginner, jekyll, tutorial]
+comments: true
+category: blog
 ---
-**Authors**: Muhammad Faizan Raza and Sami Areez
 
-We have chosen the following two objects from the Medical Manuscripts section of the Digital Library of the Middle East:
+# Heyy. Welcome to my 1st assignment
 
-<img src="/assets/comparison.png" style="width:80%; height:50%; margin-left:10%;" />
+## Table of contents
+> First trial 1234
 
-The first object is the *“Qānūnchah fī al-ṭibb”*, which translates from Arabic to English as “Law of Medicine.” The manuscript, shortly called "Qānūnchah", is a 15th-century medical work that is an Arabic compendium divided into ten sections, covering various topics such as fundamental medical principles, anatomy, physical condition, treatment for ill patients, management of well patients, and various classes of diseases. It was most likely authored by Maḥmūd ibn Muḥammad ibn ʻUmar al-Jaghmīnī. Although the author claims to have compiled his work from extracts taken from ancient works on medicine, it is believed that he simply drew from Ibn Sīnā’s Qānūn. The work became essential and was regularly consulted, heavily studied, and even incorporated into the curricula of schools of medicine. The manuscript copies have annotations and material qualities that suggest its significance within the realm of the historical study and practice of Graeco-Islamic medicine.
-<figure>
-<img src="/assets/qanuncha.jpg" style="width:50%; height:50%; margin-left:22%;"/>
-<figcaption style="text-align: center;">Qānūnchah fī al-ṭibb pg 3</figcaption>
-</figure>
+## What is a static website generator?
+A static website generator is a program that allows for a website to be created using alternatives to HTML. In this case we are using a simple text markup language called Markdown to create and format the content on the pages. Jekyll can interpret this and convert it to html that can be rendered in any browser.
 
- The second object that we have selected is the Arabic book *“Kitāb al-bayzarah”*, which translates to “Book of Falconry.” It is a Treatise on falconry focussing on the health and treatment of birds of prey by an unnamed author. The text is divided into two treatises (مقالتان) or parts (جزءان), each subdivided into chapters (أبواب). Treatise One is devoted to general information about birds of prey, their anatomical make-up (based on Galenic humoral pathology), physical characteristics etc. Treatise Two describes specific illnesses, their signs and treatments.
-<figure>
-<img src="/assets/bayzarah.jpg" style="width:50%; height:50%; margin-left:25%;"/>
-<figcaption style="text-align: center;">Kitāb al-bayzarah pg 1r</figcaption>
-</figure>
+## Why should I use a static website?
+A static website, simply put, is easier to manage than just about any other option out there for a simple website. Since it does not rely on any additional web application, it can be hosted on any webhosting server. It does not require regular updates like many dynamic websites such as WordPress or Drupal require. Everything that the website needs to work is contained within one directory, making it incredibly easy to move.
 
-After gathering the metadata from the Digital Library of the Middle East, we compared them both on various aspects using the following table below:
-
-
-
-
-| Metadata            | Object 1                                                                                                                                                                                                                                                                                                                                              | Object 2                                                                                                                   |
-| :-----------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
-| Title               | Qānūnchah fī al-ṭibb                                                                                                                                                                                                                                                                                                                                  | Kitāb al-bayzarah                                                                                                          |
-| Date                | 1475 or 1476                                                                                                                                                                                                                                                                                                                                          | 1787                                                                                                                       |
-| Author              | Maḥmūd ibn Muḥammad al-Jaghmīnī                                                                                                                                                                                                                                                                                                                       | Unknown                                                                                                                    |
-| Contributor         | Ṣābūnī, Muḥammad ibn Muḥammad                                                                                                                                                                                                                                                                                                                         | David Fetto                                                                                                                |
-| Type                | Manuscript                                                                                                                                                                                                                                                                                                                                            | Manuscript                                                                                                                 |
-| Language            | Arabic                                                                                                                                                                                                                                                                                                                                                | Arabic                                                                                                                     |
-| Subject             | Manuscripts, Arabic Medicine,Arab | Veterinary medicine -- Early works to 1800, Falconry -- Early works to 1800                                                |
-| Binding             | A Type III binding covered in brown leather and cream colored textile with a tooled central motif and accents in annular stamps, lined with blue-tinted and untinted laid paper, sewn mainly in heavy cream thread, in fair condition with some abrasion, lifting and losses of leather, staining, and spine slant                                    | British Museum binding                                                                                                     |
-| Material            | The manuscript is written on non-European (likely Arab) laid paper with 10 laid lines per cm and chain lines, with sturdy and well-burnished pages, and includes opening replacement leaves with crescent and crown-star-crescent watermarks, as well as later replacement leaves in European laid paper with visible "E B".                          | Western laid paper, with watermark visible in gutter of most openings                                                      |
-| Layout              | Written in 9 lines per page ; frame-ruled                                                                                                                                                                                                                                                                                                             | No ruling visible; 10-11 lines per page; vertical spacing 7 lines per 10 cm                                                |
-| Script              | The manuscript is written in a bold and elegant Nastaʻlīq hand, virtually serifless with slight effects of words descending to baseline and occasional exaggerated curvilinear descenders, with text on opening replacement folia in a different hand as the ownership statement, and a replacement leaf carrying pp.17-18 in a still different hand. | Naskh ; the scribe is Mullā Maṭar ibn ‘Abd Allāh al-Ṭawqī (ملا مطر ابن عبد الله الطوقي; see colophon , f. 148r, lines 1-8) |
-| Dimensions          | 129 leaves : paper ; 130 x 97 (95 x 50) mm                                                                                                                                                                                                                                                                                                            | 213 x 150 mm leaf [155 x 112 mm written (frame dimensions)]                                                                |
-| Holding Institution | University of Michigan | British Library. India Office Records and Private Papers                                                                   |
-| Rights              | Public Domain                                                                                                                                                                                                                                                                                                                                         | Public Domain                                                                                                              |
-| Identifier | Not given | 81055/vdc_100028123593.0x000001_ar, 81055/vdc_100028123593.0x000001_en Or 8187 |
-
-As you can see from the comparison above, the metadata for the first manuscript, Qānūnchah fī al-ṭibb was generally more descriptive. we had to summarize the descriptions of the bindings, material and script as they were even longer than the ones we had mentioned. One of the cons of having such elaborate descriptions and not a very concise one is the difficulty that arises from it when it comes to formatting a short or precise search query for these items; which in this case, is tough to create. Apart from the depth in the details, the metadata of both the manuscripts have all the bases covered and provide information about all the aspects. Even though both the manuscripts are from different libraries: the first one from University of Michigan and second from the British library, their description narrative is a lot similar in how they describe the manuscript. Both manuscripts came from English based libraries so there weren't any translation issues and hence no discrepancies. One very important difference though is the author not being mentioned in the second manuscript but upon further research we realized the author could not be traced and hence it's mentioned as anonymous on all websites. 
-
-Both objects from our sample have an extensive catalogue of metadata attached to them, as is commonly the case for such digital archives of confederated libraries. But the variance of formatting and narration of our requisite data across platforms (DLME itself and the contributor websites of respective pieces) make up for an interesting albeit slightly inconvenient circumstances. 
-
-Kitab al-bayzarah, our 2nd sample, seems to be the more easily and readily discoverable one of the two for anyone curious enough to search it up on the web by simply typing in the name of the document, even without the special characters, on popular search engines (the result being a link to the original contributors website within the first 3 search results across popular search engines). That too despite having a rather congested and unarranged description tab. 
-
-Qanunchah fi al-tibb - our 1st sample, on the other hand, suffers from a lack of discoverability.
-The best outputs we achieved by running a search by its name, with the special character or otherwise, across popular search engines were remotely related documents and manuscripts, or simply different copies of the same category, from across different digital archives. None of them were the ones we were working with.
-Unlike our 2nd sample, it does have neatly arranged and categorized metadata in terms of its description but it does suffer from a lack of unique identifier in its metadata, a key component and metadata for any sort of further research or analysis. This further hinders the experiment as it cannot be put into present Mirador for comparative analysis for the same aforementioned reasons. 
-
-There is a lot to take away from this study. For one, metadata is critical to the discoverability of cultural objects in federated digital libraries. It serves as a bridge between the physical object and the digital representation of that object, providing information about its creator, subject, format, and other relevant details. Metadata allows users to search, browse, and filter digital collections, which is essential to finding the resources they need.
-
-Incomplete metadata can have a significant impact on the discoverability of cultural objects. For example, if an object is missing key metadata, such as its creator or date, it may not show up in search results or may be difficult to find among other similar objects. Additionally, inconsistent or inaccurate metadata can lead to confusion or errors when using digital libraries. Something that became evident during our work with the Qanunchah fi al-tibb.
-
-The lack of a properly organized information present in the metadata of Kitab al-bayzarah, our 2nd sample, was more than made up for in the comprehensive and structured metadata in its original contributors website; fleshed with all the relevant metadata one might deem necessary for further analysis of the piece. 
-Qanunchah fi al-tibb, on the other hand, struggles from a lack of a unique identifier from both the DLME and its contributor website (University of Michigan). Something that causes further issues as the ones we addressed earlier.
-
-All being said, metadata too comes at a cost. Though it varies depending on the size and complexity of the collection, as well as the resources available for creating and maintaining metadata, it is safe to say that the objects of our sample fall on the south end of the cost and complexity spectrum for the nature of it. Creating high-quality metadata can be time-consuming and resource-intensive, requiring skilled staff and specialized tools. However, the cost of metadata can be reduced through the use of automated tools and crowdsourcing, which can help to streamline the process and make it more cost-effective.
-
-To make metadata better, it is important to invest in creating high-quality metadata at the outset of a project and to maintain it over time. This requires a commitment to standards and best practices for metadata creation and management, as well as ongoing training and support for staff involved in metadata creation. Additionally, it is important to involve end-users in the process of creating metadata, as they can provide valuable insights and feedback on the usability and effectiveness of the metadata.
-
-
-**References**
-
-Jaghmīnī, Maḥmūd ibn Muḥammad. Qānūnchah Fī Al-Ṭibb. Possibly between 1475-1476.
-
-Kitāb al-bayzarah كتاب البيزرة, British Library: Oriental Manuscripts, Or 8187, in Qatar Digital Library <https://www.qdl.qa/node/9477>
-
-
+## How is this template different?
+This template has been optimized for ease of use. In the next set of instructions you will see that there are less than five files that you need to edit in order to customize the look of the website.
