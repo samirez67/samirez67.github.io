@@ -2,7 +2,7 @@
 title: "Digital Literacy Narrative Assignment"
 layout: textlay
 excerpt: "Digital Literacy Narrative Assignment"
-sitemap: false
+comments: true
 permalink: /dln-assignment/
 ---
 
