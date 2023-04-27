@@ -16,7 +16,7 @@ category: presentation
     Feels like just yesterday doesn't it
     ---
     ## Moving on
-    That being said, we're nearing the end of the semester now. Time to wrap up and buckle up for the exams (yikes)
+    That being said, we're nearing the end of the semester now. Time to wrap up and buckle up for the exams (yikes!)
     ---
     ## Before that....
     Let's have a look at an utterly boring presentation absolutely no one asked for
