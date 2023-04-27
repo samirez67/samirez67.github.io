@@ -1,21 +1,22 @@
 ---
 layout: slide
-title: Example Reveal.js Presentation Deck
-excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
-# theme: simple
-transition: convex
+title: Sample Presentation Deck
+excerpt: A sample reveal.js presentation
+theme: beige
+transition: slide
 tags: [presentation]
 category: presentation
 ---
 <section data-markdown>
   <textarea data-template>
-    ## Reveal.js and Jekyll Academic
+    ## Hello ! 🦆
+    How's the semester coming up?
     ---
-    ## HTML or Markdown
-    Reveal.js works with either. Use whatever you are more comfortable with.
+    ## Remember when we just came here in January
+    Feels like just yesterday doesn't
     ---
-    ## Works Anywhere
-    By creating presentations using Reveal.js and hosting them on your Jekyll Academic site you will have access to them anywhere. No need to worry about software compatibility, no need to sign in to email accounts on public machines. Simply load your website and select the presentation.
+    ## Moving on
+    That being said, we're nearing the end of the semester now. Time to wrap up and buckle up for the exams (yikes)
     ---
     ## More Information
     Jekyll Academic includes everything that you need in order to make Reveal.js work. Copy this file and edit it to begin making your own slide deck.  
