@@ -3,7 +3,7 @@ layout: slide
 title: Sample Presentation Deck
 excerpt: A sample reveal.js presentation
 theme: beige
-transition: slide
+transition: serif
 tags: [presentation]
 category: presentation
 ---
