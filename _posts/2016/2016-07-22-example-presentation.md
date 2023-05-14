@@ -12,7 +12,7 @@ category: presentation
 <section data-markdown>
   <textarea data-template>
     **Unveiling the Enigma: Exploring the Legendary Lost City of Dwarka through Archaeological Investigations and Data Analysis**
-    ![Underwater Imagery by AI](/images/up/1.jpg "Underwater Imagery by AI")
+    ![Underwater Imagery by AI](/assets/up/1.jpg "Underwater Imagery by AI")
     By Sami Areez and Yaakulya Rabbani
   </textarea>
 </section>
