@@ -2,8 +2,8 @@
 layout: slide
 title: Project Unproject
 excerpt: An Unproject Presentation
-theme: moon
-transition: serif
+theme: black
+transition: zoom
 tags: [presentation]
 category: presentation
 ---
@@ -26,7 +26,7 @@ category: presentation
   <section data-markdown>
     <textarea data-template>
       ## 1. Scope
-      ![Underwater Imagery by AI](/images/up/2.jpg "Underwater Imagery by AI")
+      ![Underwater Imagery by AI](/assets/up/2.jpg "Underwater Imagery by AI")
     </textarea>
   </section>
   
@@ -58,7 +58,7 @@ category: presentation
   <section data-markdown>
     <textarea data-template>
       ## 2. Data
-      ![Underwater Imagery by AI](/images/up/3.jpg "Underwater Imagery by AI")
+      ![Underwater Imagery by AI](/assets/up/3.jpg "Underwater Imagery by AI")
     </textarea>
   </section>
   
@@ -186,7 +186,7 @@ category: presentation
   <section data-markdown>
     <textarea data-template>
       ## 5. Values & Ethics
-      ![Underwater Imagery by AI](/images/up/4.jpg "Underwater Imagery by AI")
+      ![Underwater Imagery by AI](/assets/up/4.jpg "Underwater Imagery by AI")
     </textarea>
   </section>
 
@@ -226,7 +226,7 @@ category: presentation
   <section data-markdown>
     <textarea data-template>
       ## 6. Resources
-      ![Underwater Imagery by AI](/images/up/5.jpg "Underwater Imagery by AI")
+      ![Underwater Imagery by AI](/assets/up/5.jpg "Underwater Imagery by AI")
     </textarea>
   </section>
 
@@ -280,7 +280,7 @@ category: presentation
   <section data-markdown>
     <textarea data-template>
       ## 7. Workplan
-      ![Underwater Imagery by AI](/images/up/6.jpg "Underwater Imagery by AI")
+      ![Underwater Imagery by AI](/assets/up/6.jpg "Underwater Imagery by AI")
     </textarea>
   </section>
 
@@ -323,7 +323,7 @@ category: presentation
 <section data-markdown>
   <textarea data-template>
     ## Thank You !
-    ![Underwater Imagery by AI](/images/up/7.jpg "Underwater Imagery by AI")
+    ![Underwater Imagery by AI](/assets/up/7.jpg "Underwater Imagery by AI")
   </textarea>
 </section>
 
