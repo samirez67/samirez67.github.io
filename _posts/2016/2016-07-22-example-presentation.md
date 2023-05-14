@@ -3,7 +3,7 @@ layout: slide
 title: Project Unproject
 excerpt: An Unproject Presentation
 theme: black
-transition: concave
+transition: convex
 tags: [presentation]
 category: presentation
 ---
