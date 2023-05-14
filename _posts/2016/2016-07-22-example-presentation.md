@@ -3,7 +3,7 @@ layout: slide
 title: Project Unproject
 excerpt: An Unproject Presentation
 theme: black
-transition: zoom
+transition: concave
 tags: [presentation]
 category: presentation
 ---
@@ -17,8 +17,6 @@ category: presentation
   </textarea>
 </section>
 
-
-***
 
 
 <section>
@@ -50,7 +48,6 @@ category: presentation
   
 </section>
 
-***
 
 
 <section>
@@ -78,7 +75,6 @@ category: presentation
 
 </section>
 
-***
 
 
 <section>
@@ -138,7 +134,6 @@ category: presentation
 
 
 
-***
 
 
 
@@ -178,7 +173,9 @@ category: presentation
 </section>
 
 
-***
+
+
+
 
 
 <section>
@@ -218,7 +215,9 @@ category: presentation
 </section>
 
 
-***
+
+
+
 
 
 <section>
@@ -272,7 +271,9 @@ category: presentation
 </section>
 
 
-***
+
+
+
 
 
 <section>
@@ -317,7 +318,9 @@ category: presentation
 </section>
 
 
-***
+
+
+
 
 
 <section data-markdown>
@@ -326,6 +329,3 @@ category: presentation
     ![Underwater Imagery by AI](/assets/up/7.jpg "Underwater Imagery by AI")
   </textarea>
 </section>
-
-
-***
