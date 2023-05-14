@@ -325,7 +325,7 @@ category: presentation
 
 <section data-markdown>
   <textarea data-template>
-    ## Thank You !
+    ## And that's a wrap !
     ![Underwater Imagery by AI](/assets/up/7.jpg "Underwater Imagery by AI")
   </textarea>
 </section>
